@@ -176,7 +176,7 @@ p{
 #inquiry{
     width: 900px;
     height: 300px;
-    margin-left: 250px;
+    margin-left: 20%;
     background-image: url("images/Group_33094_1.png");
     background-repeat: no-repeat;
     background-size: 100%;
@@ -184,7 +184,7 @@ p{
 
 #inquiry h2{
     color: white;
-    padding-left: 40%;
+    padding-left: 120px;
     padding-top: 80px;
 }
 
